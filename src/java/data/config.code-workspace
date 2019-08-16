@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "C:\\Users\\HSDSA\\Documents\\NetBeansProjects\\CohortSystems"
+		},
+		{
+			"path": "C:\\Users\\HSDSA\\Documents\\NetBeansProjects\\LimeList"
+		}
+	],
+	"settings": {
+		"sqltools.connections": [
+			{
+				"connectionTimeout": 30,
+				"database": "pmtc_art_cohort",
+				"dialect": "MySQL",
+				"name": "PMTCT",
+				"password": "admin",
+				"port": 3306,
+				"server": "127.0.0.1",
+				"username": "root"
+			}
+		],
+		"liveServer.settings.multiRootWorkspaceName": "CohortSystems"
+	}
+}

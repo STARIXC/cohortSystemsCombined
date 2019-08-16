@@ -1,0 +1,34 @@
+{
+    "java.home": "C:\\Program Files\\Java\\jdk1.8.0_221",
+    "sqltools.connections": [
+        {
+            "connectionTimeout": 30,
+            "database": " pmtc_art_cohort",
+            "dialect": "MySQL",
+            "name": "PMTC_ART_STF_DEF",
+            "password": "admin",
+            "port": 3306,
+            "server": "127.0.0.1",
+            "username": "root"
+        },
+        {
+            "connectionTimeout": 30,
+            "database": "pmtc_art_cohort",
+            "dialect": "MySQL",
+            "name": "PMTC_ART",
+            "port": 3306,
+            "server": "127.0.0.1",
+            "username": "root"
+        },
+        {
+            "connectionTimeout": 30,
+            "database": "pmtc_art_cohort",
+            "dialect": "MySQL",
+            "name": "DB Connect",
+            "password": "admin",
+            "port": 3306,
+            "server": "127.0.0.1",
+            "username": "root"
+        }
+    ]
+    }

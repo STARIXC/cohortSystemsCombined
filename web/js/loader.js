@@ -370,7 +370,7 @@ function clearfields(indics) {
 function hiddenelements() {
     var cm_ = $("#cohortmonth").val();
     //var cm_ = $("#nav-pills li > a.nav-link.active > span.hidden_id").data("mn");
-    var ct_ = $("#cohortttype").val();
+    var ct_ = $("#cohortttypemain").val();
 
     if (cm_ === "3m" && ct_ === "pmtct") {
         $("#6_kp").attr("readonly", true);
